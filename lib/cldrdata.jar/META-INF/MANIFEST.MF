@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+CLDR-Version: 21.0.1
+Created-By: 1.7.0_291 (Oracle Corporation)
+

@@ -1,0 +1,116 @@
+Manifest-Version: 1.0
+Implementation-Title: Java Runtime Environment
+Implementation-Version: 1.8.0_301
+Specification-Vendor: Oracle Corporation
+Implementation-Vendor-Id: com.sun
+Specification-Title: Java Platform API Specification
+Extension-Name: javax.crypto
+Created-By: 1.7.0_07 (Oracle Corporation)
+Specification-Version: 1.8
+Implementation-Vendor: Oracle Corporation
+
+Name: sun/security/mscapi/CPublicKey$CECPublicKey.class
+SHA-256-Digest: 8Si4ni4gXQhD9z9CVWjMLdwnBOQD3oa81FZ2pxvPJy0=
+
+Name: sun/security/mscapi/CSignature$PSS.class
+SHA-256-Digest: f8a2QcHUX9KC71IugWicSmzTvD8UD8oBiEnZMBYv0VA=
+
+Name: sun/security/mscapi/CSignature$SHA224withECDSA.class
+SHA-256-Digest: 4ui+LMAGEgQiu7gD/8nJaBk/1KudLGbPWpvsQiHbH2M=
+
+Name: sun/security/mscapi/CSignature$SHA512withECDSA.class
+SHA-256-Digest: Ydb0XyYJBTZkCzbw+6vaAxN7eTBhQJPX0EOEY5MIsq8=
+
+Name: sun/security/mscapi/CKeyStore.class
+SHA-256-Digest: CAsQO58oF8lYD/mRHCM3v6SsXsBfGDeHsfPX5RpUiVs=
+
+Name: sun/security/mscapi/CKeyPair.class
+SHA-256-Digest: uD4rWb6KlgPxs6WCWY1LhHCw1oOkJX/ovsPgD/pQ3I0=
+
+Name: sun/security/mscapi/CKeyStore$KeyEntry.class
+SHA-256-Digest: bRxjG1xhV3+zWrgRcs/y8Xg41CtRmZxLBfBl6gQnf0w=
+
+Name: sun/security/mscapi/CPublicKey.class
+SHA-256-Digest: gUfxx3/l9UNDcfYSZTygwdzgz1hCV2l4saXhIuojDqk=
+
+Name: sun/security/mscapi/CSignature$MD2withRSA.class
+SHA-256-Digest: HiV08JsUQ08ejWekpbepYfw+yjMABcjSZqCfaAYZh0M=
+
+Name: sun/security/mscapi/CRSACipher.class
+SHA-256-Digest: 3QaA95UKK6DhAceRaX6TInJMhiZ2t04MZHnwu2IwnbY=
+
+Name: sun/security/mscapi/CSignature$SHA256withRSA.class
+SHA-256-Digest: 12HTS+iz4vE4lY4tQBbGcNblsezNx3Y7VGjK2nt5cHs=
+
+Name: sun/security/mscapi/CSignature.class
+SHA-256-Digest: Q1TRMEhubStLQFL1f/vx0ZL9Exkho1ruwT3IsQF5AN4=
+
+Name: sun/security/mscapi/CSignature$SHA384withRSA.class
+SHA-256-Digest: U+xKOfAijUyAHu6E8wnbBEvcoVeLom9uxtydbxQHIUQ=
+
+Name: sun/security/mscapi/CPrivateKey.class
+SHA-256-Digest: udHgt3reDbQLloJfFr2GGDwNyNVXr3vXsl80IqLT1Wg=
+
+Name: sun/security/mscapi/CKeyStore$MY.class
+SHA-256-Digest: ksOaIMTvEGy0o7fEjiY/WV1SWPZ751AuB/giyx6HBDU=
+
+Name: sun/security/mscapi/CKey.class
+SHA-256-Digest: rKvsPCU3AF/4L6frnr/vAylVia8sgbhB++uKlwgKbUw=
+
+Name: sun/security/mscapi/CKeyPairGenerator.class
+SHA-256-Digest: mLyzZUo6vsu2eLvBMBO5RMmMAzyXRlnbmwbhEOe2xkU=
+
+Name: sun/security/mscapi/CSignature$NONEwithRSA.class
+SHA-256-Digest: QYxybsO/xTfzk2WKSEocXDQgA9uIxW6C90Ci3jF+I78=
+
+Name: sun/security/mscapi/PRNG.class
+SHA-256-Digest: 75H0X41FfZZIRqPcXLsjqhXWDii+zDMxeUbQ3GecI0A=
+
+Name: sun/security/mscapi/CSignature$SHA512withRSA.class
+SHA-256-Digest: Mtm/E5l8miRgE9KsT+4IGnmgbEShZNwvcaysX2+UH7Q=
+
+Name: sun/security/mscapi/CPublicKey$CRSAPublicKey.class
+SHA-256-Digest: UCLin7xP1poBEfwvbyzqma6q01iffqAJsFko13tYx6M=
+
+Name: source_tips
+SHA-256-Digest: prgKkZzstCoF/zoXaYVfCtK+V4fLvkP5PRnbMECLdhg=
+
+Name: sun/security/mscapi/CSignature$RSA.class
+SHA-256-Digest: qleAGI5HOK+kfcozWRJSmbml+wSxikkhN7rCBekf5T8=
+
+Name: sun/security/mscapi/CSignature$SHA1withECDSA.class
+SHA-256-Digest: 6RAgJsWG6nEHwbeI6TGkdCRUhl9Q1uJat1FFJtFPpzo=
+
+Name: sun/security/mscapi/CSignature$SHA256withECDSA.class
+SHA-256-Digest: CC/SOwtybP3RVmUEI66heKByEbqvSeZJcIo7AZCSMW8=
+
+Name: sun/security/mscapi/SunMSCAPI$1.class
+SHA-256-Digest: 1wJJdTY+wDldEeTUPmbSzieg4g624Uf+tZZfagKcjHo=
+
+Name: sun/security/mscapi/CKeyPairGenerator$RSA.class
+SHA-256-Digest: 8DEulB/UzbeGi//8diYDOxQoCdSyFGChBXnbDCVUkqg=
+
+Name: sun/security/mscapi/SunMSCAPI.class
+SHA-256-Digest: 3VPUHCe7U/kFAs/+bIpF+DF0CDcsv4QwvUm1+ZiP4qs=
+
+Name: sun/security/mscapi/CSignature$MD5withRSA.class
+SHA-256-Digest: YCasJ0pp3esUqwNK4SEV27rbvU0h0L9IpZPfPf/JYkc=
+
+Name: sun/security/mscapi/CSignature$SHA1withRSA.class
+SHA-256-Digest: chrHpDUD1kfiJzgJdUEqTXgQALQTScafv8be/l2L8uI=
+
+Name: sun/security/mscapi/CKey$NativeHandles.class
+SHA-256-Digest: PEF0/STHVE3QMbJig3xIWihcF7q4KtZ6lfZX9jKN66E=
+
+Name: sun/security/mscapi/CKeyStore$ROOT.class
+SHA-256-Digest: evd3aO7eTgIqYuUt3tgO77hz1gxR8FL/28snVsPF7DQ=
+
+Name: sun/security/mscapi/CSignature$ECDSA.class
+SHA-256-Digest: ibHIznME7Fl3+2IvrOGo4yUAoWMun6bGL37jVTvxDZs=
+
+Name: sun/security/mscapi/CSignature$SHA384withECDSA.class
+SHA-256-Digest: 6X/EDxSm3Nc+bKBJcIW9wfiqTYbwlX4ORV66esbYbgw=
+
+Name: sun/security/mscapi/CKeyStore$1.class
+SHA-256-Digest: LiGrLrH7aas/Q2Qs6wrvDJvs6CmYZnaNswD0y+qezKA=
+

@@ -1,0 +1,92 @@
+Manifest-Version: 1.0
+Implementation-Title: Java Runtime Environment
+Implementation-Version: 1.8.0_271
+Specification-Vendor: Oracle Corporation
+Implementation-Vendor-Id: com.sun
+Specification-Title: Java Platform API Specification
+Extension-Name: javax.crypto
+Created-By: 1.7.0_07 (Oracle Corporation)
+Specification-Version: 1.8
+Implementation-Vendor: Oracle Corporation
+
+Name: sun/security/ec/point/ProjectivePoint$Mutable.class
+SHA-256-Digest: cGuG5IwveVDnQPjaYZnUIyPsTNLcgIu+sWlqp8AnmuM=
+
+Name: sun/security/ec/ECDSAOperations$Nonce.class
+SHA-256-Digest: FET/vxR8e1tlMGLM/JSPciYqqqHnXiOv/IxbdeK+CbI=
+
+Name: sun/security/ec/point/MutablePoint.class
+SHA-256-Digest: U6n1kvRBQkQCNqvlpkdpOWWGLl5En+d/9NAYaPILG1M=
+
+Name: sun/security/ec/ECDHKeyAgreement.class
+SHA-256-Digest: E5IN9rKzGf2XF+P8FWi6DbnC8NS8HiOlNMpOU3Em5iA=
+
+Name: sun/security/ec/ECDSAOperations.class
+SHA-256-Digest: VyR9BXPZ6F6mdKd6PDAhXCzUiD6kg0MEgEDDBGJXKm8=
+
+Name: sun/security/ec/ECDSASignature$SHA1.class
+SHA-256-Digest: 9MjgYcytrnqhYFur90bXUqIV/zne6Z8CaJ+5lZIvRPo=
+
+Name: sun/security/ec/point/ProjectivePoint$Immutable.class
+SHA-256-Digest: ENaJbF4qe7KVyeNTPAC+ozR6vNL8Iu2XKQ25+NARxeU=
+
+Name: sun/security/ec/ECPrivateKeyImpl.class
+SHA-256-Digest: zN1yh7kP7sYy6iaEv3uybQpV+it5eNr4/t231Q80qZQ=
+
+Name: sun/security/ec/ECDSAOperations$Seed.class
+SHA-256-Digest: o9/IxJ/SXULbLcdiy47AVQuQjlI53GAyYLJ5biekr4Q=
+
+Name: sun/security/ec/ECDSASignature$SHA512.class
+SHA-256-Digest: F+v8ZF7uSO94fmZhVYn2fR7zxz9FV9XESUTwn1fiodI=
+
+Name: sun/security/ec/ECDSASignature$SHA224.class
+SHA-256-Digest: LmMX4CRdA8o3L0DZg4aYzm+obgrQoTL+KVOsel1shdM=
+
+Name: sun/security/ec/SunEC.class
+SHA-256-Digest: Yj/Upd8Ai1tGmlKXGbebS8/iZjh3wFm/ffab+JAD6IA=
+
+Name: sun/security/ec/ECOperations.class
+SHA-256-Digest: JJJV5fXAY49NA45J1vrFmDnVI2+WzePHz2eWS5sm5Ic=
+
+Name: sun/security/ec/ECPublicKeyImpl.class
+SHA-256-Digest: /ZEaKvcHRgnln6AvX6V0n4rsrfSWYxyPvDUhMYFlvzk=
+
+Name: sun/security/ec/point/ProjectivePoint.class
+SHA-256-Digest: o9uMcPyGsAQ+IWaHmX9z1fqIXACfD0GJLEKOdKgPp0U=
+
+Name: sun/security/ec/ECKeyPairGenerator.class
+SHA-256-Digest: 5t/pmQiKXYLVIoU07vFZKyB74RGTeGuItYB91mW8EEs=
+
+Name: sun/security/ec/SunEC$1.class
+SHA-256-Digest: mJXpCK/+ulvY42GV8EcT6bLfmDCQi2rE1xW2HmjriJ8=
+
+Name: sun/security/ec/ECKeyFactory.class
+SHA-256-Digest: RqyId3c72loRIpScfe2v9SxydbPglUqgf+PQ/LUFJQA=
+
+Name: sun/security/ec/ECDSASignature$SHA256.class
+SHA-256-Digest: QS20gsaRVaxdbx6xMm34vClSAb4zaV3ep+m9ZWdxixo=
+
+Name: sun/security/ec/point/AffinePoint.class
+SHA-256-Digest: rsn958fBYTdxXaGewEpAUjxlo/yIFkl5+fu2iP3NG+s=
+
+Name: source_tips
+SHA-256-Digest: mcPiFaKLq+6DUrhewOouBtI/CKcvUSGVW3xmjF9Hn8A=
+
+Name: sun/security/ec/ECDSASignature.class
+SHA-256-Digest: i3+pfGFmi8Ox7tinUCKtZUmM76OyJqJpR0WT+qNoFg8=
+
+Name: sun/security/ec/ECDSASignature$SHA384.class
+SHA-256-Digest: iaf6DvCuTGzhRbxan0Zi5zN2ow0Gadf3ci4iPYnLHv4=
+
+Name: sun/security/ec/point/ImmutablePoint.class
+SHA-256-Digest: H4zo4dvrqsfjeN/xilyKEHu/N2Hb0FThEZNpjVptqJA=
+
+Name: sun/security/ec/point/Point.class
+SHA-256-Digest: g1AnbAZsJI7mAgVgj6yAw7TfPGi6WWjLwRAhFHr305w=
+
+Name: sun/security/ec/ECDSASignature$Raw.class
+SHA-256-Digest: qLiKdtKPBOenGC/E+zL7IhcIq2eceIuEEn5ssXaRb0o=
+
+Name: sun/security/ec/ECOperations$IntermediateValueException.class
+SHA-256-Digest: RppeLWBxUnKwxVtIUm0lJyscObEadWeB5FjbMYNFMQI=
+

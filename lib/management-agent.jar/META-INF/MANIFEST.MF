@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Created-By: 1.7.0_291 (Oracle Corporation)
+Agent-Class: sun.management.Agent
+Premain-Class: sun.management.Agent
+

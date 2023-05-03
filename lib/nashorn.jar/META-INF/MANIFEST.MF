@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Created-By: 1.7.0_291 (Oracle Corporation)
+Main-Class: jdk.nashorn.tools.Shell
+
+Name: jdk/nashorn/
+Implementation-Vendor: Oracle Corporation
+Implementation-Title: Oracle Nashorn
+Implementation-Version: 1.8.0_351-b10
+Name: jdk/nashorn/
+

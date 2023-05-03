@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="950f6f53-4f56-4add-bf5a-357ca2c16346" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HIT-Lab3-2021111862.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/APIs/CircularOrbitAPIs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/APIs/CircularOrbitHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/applications/AtomStructure/AtomCircularOrbit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/applications/SocialNetworkCircle/SocialNetworkGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/applications/TrackGame/Athlete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/applications/TrackGame/Strategy/RandomStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/applications/TrackGame/Strategy/RecordStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/applications/TrackGame/Strategy/Relay4Strategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/applications/TrackGame/Strategy/Strategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/applications/TrackGame/TrackCircularOrbit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/applications/TrackGame/TrackCircularOrbitBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/applications/TrackGame/TrackGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/centralObject/CentralObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/circularOrbit/CircularOrbit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/circularOrbit/CircularOrbitBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/circularOrbit/ConcreteCircularOrbit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/otherDirectory/CommonObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/otherDirectory/Difference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/otherDirectory/Relation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/physicalObject/PhysicalObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/track/Track.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="0" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2Ofk6jkI2B0ptQNlNwywzUbZagm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "E:/软件构造/实验3/HIT-Lab3-2021111862/lib",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "库",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\软件构造\实验3\HIT-Lab3-2021111862\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.HIT-Lab3-2021111862中的track">
+    <configuration name="HIT-Lab3-2021111862中的centralObject" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HIT-Lab3-2021111862" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="centralObject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="centralObject" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HIT-Lab3-2021111862中的circularOrbit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HIT-Lab3-2021111862" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="circularOrbit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="circularOrbit" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HIT-Lab3-2021111862中的otherDirectory" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HIT-Lab3-2021111862" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="otherDirectory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="otherDirectory" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HIT-Lab3-2021111862中的physicalObject" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HIT-Lab3-2021111862" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="physicalObject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="physicalObject" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HIT-Lab3-2021111862中的track" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HIT-Lab3-2021111862" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="track.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="track" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HIT-Lab3-2021111862中的track" />
+        <item itemvalue="JUnit.HIT-Lab3-2021111862中的physicalObject" />
+        <item itemvalue="JUnit.HIT-Lab3-2021111862中的otherDirectory" />
+        <item itemvalue="JUnit.HIT-Lab3-2021111862中的circularOrbit" />
+        <item itemvalue="JUnit.HIT-Lab3-2021111862中的centralObject" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\晗\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="950f6f53-4f56-4add-bf5a-357ca2c16346" name="Changes" comment="" />
+      <created>1681958852270</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681958852270</updated>
+      <workItem from="1681958853985" duration="11709000" />
+      <workItem from="1681974367440" duration="3779000" />
+      <workItem from="1681978533879" duration="12795000" />
+      <workItem from="1682061631624" duration="11078000" />
+      <workItem from="1682082596159" duration="5299000" />
+      <workItem from="1682310769062" duration="4000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HIT_Lab3_2021111862$CircularOrbitBuilderTest__1_.ic" NAME="CircularOrbitBuilderTest (1) 覆盖结果" MODIFIED="1683031007146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>circularOrbit.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/HIT_Lab3_2021111862$HIT_Lab3_2021111862circularOrbit.ic" NAME="HIT-Lab3-2021111862中的circularOrbit 覆盖结果" MODIFIED="1683106541689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>circularOrbit.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/HIT_Lab3_2021111862$CircularOrbitAPIsTest.ic" NAME="CircularOrbitAPIsTest 覆盖结果" MODIFIED="1683102704935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>APIs.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/HIT_Lab3_2021111862$TrackCircularOrbitTest.ic" NAME="TrackCircularOrbitTest 覆盖结果" MODIFIED="1683104075528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>applications.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/HIT_Lab3_2021111862$AtomCircularOrbitTest.ic" NAME="AtomCircularOrbitTest 覆盖结果" MODIFIED="1683106302408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>applications.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/HIT_Lab3_2021111862$HIT_Lab3_2021111862physicalObject.ic" NAME="HIT-Lab3-2021111862中的physicalObject 覆盖结果" MODIFIED="1683106550298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>physicalObject.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/HIT_Lab3_2021111862$HIT_Lab3_2021111862applications_AtomStructure.ic" NAME="HIT-Lab3-2021111862中的applications.AtomStructure 覆盖结果" MODIFIED="1683106282488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>applications.AtomStructure.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/HIT_Lab3_2021111862$HIT_Lab3_2021111862centralObject.ic" NAME="HIT-Lab3-2021111862中的centralObject 覆盖结果" MODIFIED="1683106538130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>centralObject.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/HIT_Lab3_2021111862$HIT_Lab3_2021111862applications.ic" NAME="HIT-Lab3-2021111862中的applications 覆盖结果" MODIFIED="1683106529497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>applications.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/HIT_Lab3_2021111862$HIT_Lab3_2021111862applications_SocialNetworkCircle.ic" NAME="HIT-Lab3-2021111862中的applications.SocialNetworkCircle 覆盖结果" MODIFIED="1683106342737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>applications.SocialNetworkCircle.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/HIT_Lab3_2021111862$HIT_Lab3_2021111862APIs.ic" NAME="HIT-Lab3-2021111862中的APIs 覆盖结果" MODIFIED="1683106517167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>APIs.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/HIT_Lab3_2021111862$HIT_Lab3_2021111862track.ic" NAME="HIT-Lab3-2021111862中的track 覆盖结果" MODIFIED="1683106556179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>track.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/HIT_Lab3_2021111862$CircularOrbitHelperTest.ic" NAME="CircularOrbitHelperTest 覆盖结果" MODIFIED="1683102644810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>APIs.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/HIT_Lab3_2021111862$HIT_Lab3_2021111862txt.ic" NAME="HIT-Lab3-2021111862中的txt 覆盖结果" MODIFIED="1683106510028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>txt.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/HIT_Lab3_2021111862$HIT_Lab3_2021111862otherDirectory.ic" NAME="HIT-Lab3-2021111862中的otherDirectory 覆盖结果" MODIFIED="1683106546444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>otherDirectory.*</FILTER>
+    </SUITE>
+  </component>
+</project>

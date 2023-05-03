@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+ Copyright (c) 1997, 2012, Oracle and/or its affiliates. All rights reserved.
+ ORACLE PROPRIETARY/CONFIDENTIAL. Use is subject to license terms.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-->
+
+<!--
+    Document   : jaxws-tubes-default.xml
+    Author     : Marek Potociar (marek.potociar at sun.com)
+    Description: The default JAX-WS tubes configuration file.
+-->
+
+<metro xmlns='http://java.sun.com/xml/ns/metro/config' version="1.0">
+    <tubelines default="#default-metro-tubeline">
+        <tubeline name="default-metro-tubeline">
+            <client-side>
+                <!--<tube-factory className="com.sun.xml.internal.ws.assembler.jaxws.TerminalTubeFactory" />-->
+                <tube-factory className="com.sun.xml.internal.ws.assembler.jaxws.HandlerTubeFactory" />
+                <tube-factory className="com.sun.xml.internal.ws.assembler.jaxws.ValidationTubeFactory" />
+                <!--<tube-factory className="com.sun.xml.internal.ws.assembler.jaxws.MonitoringTubeFactory" />-->
+                <tube-factory className="com.sun.xml.internal.ws.assembler.jaxws.MustUnderstandTubeFactory" />
+                <tube-factory className="com.sun.xml.internal.ws.assembler.jaxws.AddressingTubeFactory" />
+                <tube-factory className="com.sun.xml.internal.ws.dump.MessageDumpingTubeFactory" />
+                <!-- TODO: secrity tube(?) -->
+                <tube-factory className="com.sun.xml.internal.ws.assembler.jaxws.BasicTransportTubeFactory" />
+            </client-side>
+            <endpoint-side>
+                <!-- TODO: secrity tube(?) -->
+                <tube-factory className="com.sun.xml.internal.ws.dump.MessageDumpingTubeFactory" />
+                <tube-factory className="com.sun.xml.internal.ws.assembler.jaxws.AddressingTubeFactory" />
+                <tube-factory className="com.sun.xml.internal.ws.assembler.jaxws.MustUnderstandTubeFactory" />
+                <tube-factory className="com.sun.xml.internal.ws.assembler.jaxws.MonitoringTubeFactory" />
+                <tube-factory className="com.sun.xml.internal.ws.assembler.jaxws.HandlerTubeFactory" />
+                <tube-factory className="com.sun.xml.internal.ws.assembler.jaxws.ValidationTubeFactory" />
+                <tube-factory className="com.sun.xml.internal.ws.assembler.jaxws.TerminalTubeFactory" />
+            </endpoint-side>
+        </tubeline>
+    </tubelines>
+</metro>
