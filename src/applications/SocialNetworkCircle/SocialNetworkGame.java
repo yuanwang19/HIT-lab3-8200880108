@@ -38,8 +38,8 @@ public class SocialNetworkGame {
         System.out.println("5.\t增加新的朋友");
         System.out.println("6.\t删除一个关系并重新整理");
         System.out.println("7.\t增加新的关系并重新整理");
-        System.out.println("8.\t计算信息扩散度");
-        System.out.println("9.\t计算熵值");
+        System.out.println("8.\t计算熵值");
+        System.out.println("9.\t计算信息扩散度");
         System.out.println("10.\t计算两个用户之间的逻辑距离");
         System.out.println("end.\t 结束");
     }

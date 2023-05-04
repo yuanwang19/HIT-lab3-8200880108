@@ -33,8 +33,8 @@ public class AtomGame {
         System.out.println("2.\t跃迁");
         System.out.println("3.\t可视化");
         System.out.println("4.\t打印轨道结构");
-        System.out.println("5.\t增加新轨道");
-        System.out.println("6.\t增加新电子");
+        System.out.println("5.\t增加新电子");
+        System.out.println("6.\t增加新轨道");
         System.out.println("7.\t删除电子");
         System.out.println("8.\t删除整条轨道");
         System.out.println("9.\t计算熵值");
@@ -53,7 +53,7 @@ public class AtomGame {
             switch (input) {
                 case "1":
                 // 读取文件
-                try (BufferedReader in = new BufferedReader(new FileReader("src/txt/AtomicStructure.txt"))) {
+                try (BufferedReader in = new BufferedReader(new FileReader("src/txt/AtomicStructure_Medium.txt"))) {
                     String fileLine;
                     String elementPattern = "ElementName\\s*::=\\s*([a-zA-Z]+)";
                     String trackPattern = "NumberOfTracks\\s*::=\\s*(\\d+)";
@@ -132,7 +132,7 @@ public class AtomGame {
                     System.out.printf("轨道数：%d\n%n", trackNum);
                     System.out.println(atomCircularOrbit.toString());
                     break;
-                case "7":// 增加新电子
+                case "5":// 增加新电子
                     System.out.println("请输入需要增加电子的轨道");
                     System.out.print("输入范围为0——");
                     System.out.println(trackNum - 1);
@@ -145,7 +145,7 @@ public class AtomGame {
                     System.out.println("增加成功");
 
                     break;
-                case "8":// 删除电子
+                case "7":// 删除电子
                     System.out.println("请输入需要删除电子的轨道");
                     System.out.print("输入范围为0——");
                     System.out.println(trackNum - 1);
@@ -155,7 +155,7 @@ public class AtomGame {
                     boolean success = atomCircularOrbit.removeElectron(track3);
                     System.out.println(success ? "删除成功" : "删除失败");
                     System.out.println(atomCircularOrbit.toString());
-                case "9":// 删除整条轨道
+                case "8":// 删除整条轨道
                     System.out.println("请输入需要删除的轨道");
                     System.out.printf("输入范围为0——%d\n", trackNum - 1);
                     inputString = reader.readLine().trim();
@@ -166,7 +166,7 @@ public class AtomGame {
                     System.out.println(atomCircularOrbit.toString());
                     trackNum--;
                     break;
-                case "10":// 计算熵值
+                case "9":// 计算熵值
                     System.out.println("信息熵为：" + atomCircularOrbit.calculateEntropyOfOrbit() + "\n");
                     break;
                 case "end":// 结束游戏

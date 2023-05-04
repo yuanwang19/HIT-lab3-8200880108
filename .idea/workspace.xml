@@ -76,7 +76,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "E:/软件构造/实验3/HIT-Lab3-2021111862/lib",
+    "last_opened_file_path": "E:/软件构造/实验3/HIT-Lab3-2021111862",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -93,17 +93,16 @@
       <recent name="E:\软件构造\实验3\HIT-Lab3-2021111862\lib" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.HIT-Lab3-2021111862中的track">
-    <configuration name="HIT-Lab3-2021111862中的centralObject" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="应用程序.main">
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="applications.main" />
       <module name="HIT-Lab3-2021111862" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="centralObject.*" />
+          <option name="PATTERN" value="applications.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="centralObject" />
-      <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -166,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.main" />
         <item itemvalue="JUnit.HIT-Lab3-2021111862中的track" />
         <item itemvalue="JUnit.HIT-Lab3-2021111862中的physicalObject" />
         <item itemvalue="JUnit.HIT-Lab3-2021111862中的otherDirectory" />
         <item itemvalue="JUnit.HIT-Lab3-2021111862中的circularOrbit" />
-        <item itemvalue="JUnit.HIT-Lab3-2021111862中的centralObject" />
       </list>
     </recent_temporary>
   </component>

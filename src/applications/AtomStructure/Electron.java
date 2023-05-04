@@ -25,10 +25,10 @@ public class Electron extends PhysicalObject {
     //在电子系统中存在多个电子 对象相同 但是需要通过引用来判别是否相同
     @Override
     public boolean equals(Object obj) {
-        if (obj == null || getClass() != obj.getClass()) {
-            return false;
-    }
-        return true; // 如果两个对象引用相同，那么它们肯定相等。
-}
+        if (obj == null) return false; // 如果 obj 为空，则它肯定不等于这个对象。
 
+        if (getClass() != obj.getClass()) return false; // 如果 obj 不是 MyClass 类型的，那么它肯定不等于这个对象。
+
+        return this == obj; // 如果两个对象引用相同，那么它们肯定相等。
+    }
 }

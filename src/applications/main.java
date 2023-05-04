@@ -12,8 +12,8 @@ public class main {
     public void mains() throws IOException {
         System.out.println("选择你要使用的应用：");
         System.out.println("1.\tTrackGame");
-        System.out.println("2.\tSocialNetworkCircle");
-        System.out.println("3.\tAtomStructure");
+        System.out.println("2.\tAtomStructure");
+        System.out.println("3.\tSocialNetworkCircle");
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         String input = reader.readLine().trim();
         switch (input)
